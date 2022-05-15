@@ -1,0 +1,21 @@
+{
+  "name": "esp32-s3-korvo-1",
+  "version": "0.0.1",
+  "description": "ESP-S3 Korvo-1 v5.0",
+  "main": "index.js",
+  "repository": "https://github.com/fhtw-edge-computing/esp32-s3-korvo-1.git",
+  "author": "Alija Sabic <sabic.alija@gmail.com>",
+  "license": "GPL-v3",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.45",
+    "@vuepress/plugin-search": "^2.0.0-beta.45",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-video": "^0.6.3",
+    "vuepress": "^2.0.0-beta.45"
+  }
+}
