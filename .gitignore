@@ -2,7 +2,8 @@
 node_modules/
 
 ## VuePress
-.temp/
-.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
 
 # Allow
